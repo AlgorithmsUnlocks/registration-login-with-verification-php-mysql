@@ -1,0 +1,8 @@
+/* Loading icon */
+#site-loader{
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    background: #fff url('src/icons/Ripple-loader.gif') no-repeat center;
+    z-index: 99999;
+}
